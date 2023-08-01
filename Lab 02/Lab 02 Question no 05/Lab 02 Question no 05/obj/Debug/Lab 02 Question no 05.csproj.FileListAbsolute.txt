@@ -1,0 +1,3 @@
+D:\NSBM\Y1S2\C#\lab practicals\Lab 02\Lab 02 Question no 05\Lab 02 Question no 05\obj\Debug\Lab 02 Question no 05.csproj.AssemblyReference.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 02\Lab 02 Question no 05\Lab 02 Question no 05\obj\Debug\Lab 02 Question no 05.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 02\Lab 02 Question no 05\Lab 02 Question no 05\obj\Debug\Lab 02 Question no 05.csproj.CoreCompileInputs.cache
